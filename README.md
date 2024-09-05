@@ -105,7 +105,7 @@
   </picture>
 </h3>
 <br/>
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px;">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 24px;">
   <a href="https://www.linkedin.com/in/mathewsgigi/" target="_blank" rel="noopener noreferrer">
     <img src="./img/LinkedIn.svg" alt="LinkedIn logo" width="40">
   </a>
