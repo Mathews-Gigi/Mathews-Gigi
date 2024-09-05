@@ -25,6 +25,11 @@
   <li>⚡ Fun fact: I thrive on coding challenges and am always eager to learn about new technologies!</li>
 </ul>
 <br/>
+<div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Gigi&layout=donut-vertical&card_width=800&theme=highcontrast)](https://github.com/Mathews-Gigi/github-readme-stats)
+
+</div>
 <br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Languages and Tools
   <picture>
@@ -82,17 +87,15 @@
 <br/>
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show_icons=true&card_width=260&line_height=28)
+![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show_icons=true&card_width=400&line_height=28)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Gigi&layout=donut)](https://github.com/Mathews-Gigi/github-readme-stats)
-
-</div>
-<br/>
-<div style="display:flex;justify-content:center;align-items:center;flex-grow:1;">
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark&ext=heatmap)
 
 </div>
+
+<!-- <div style="display:flex;justify-content:center;align-items:center;flex-grow:1;">
+
+</div> -->
 
 <br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me
