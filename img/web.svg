@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Background Circle -->
+  <circle cx="128" cy="128" r="120" fill="#FFFFFF" stroke="#000000" stroke-width="16"/>
+  <!-- Logo Icon -->
+  <path d="M128 48L48 128h80v80h40v-80h80L128 48z" fill="#000000"/>
+</svg>
