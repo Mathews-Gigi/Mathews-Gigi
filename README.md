@@ -87,7 +87,7 @@
 <br/>
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show_icons=true&card_width=400&line_height=28)
+![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show_icons=true&card_width=600&line_height=28)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark&ext=heatmap)
 
