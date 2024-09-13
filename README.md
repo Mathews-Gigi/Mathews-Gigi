@@ -96,23 +96,24 @@
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/mathewsgigi/" target="_blank" rel="noopener noreferrer">
-    <img src="./img/LinkedIn.svg" alt="LinkedIn logo" width="40">
+<!--     <img src="./img/LinkedIn.svg" alt="LinkedIn logo" width="40"> -->
+Linked In
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mathews-Gigi" target="_blank" rel="noopener noreferrer">
-    <img src="./img/Github-Light.svg" alt="GitHub logo" width="40">
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MathewsGig25" target="_blank" rel="noopener noreferrer">
-    <img src="./img/Twitter.svg" alt="Twitter logo" width="40">
+<!--     <img src="./img/Twitter.svg" alt="Twitter logo" width="40"> -->
+twitter X
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Mathewsgigi/" target="_blank" rel="noopener noreferrer">
-    <img src="./img/leetcode-svgrepo-com.svg" alt="LeetCode logo" width="40">
+<!--     <img src="./img/leetcode-svgrepo-com.svg" alt="LeetCode logo" width="40"> -->
+LeetCode
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="./img/web-link-svgrepo-com.svg" alt="Website logo" width="40">
+  <a href="https://github.com/Mathews-Gigi" target="_blank" rel="noopener noreferrer">
+<!--     <img src="./img/web-link-svgrepo-com.svg" alt="Website logo" width="40"> -->
+Website
   </a>
 </p>
 
