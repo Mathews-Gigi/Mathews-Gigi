@@ -8,11 +8,9 @@
 <br/>
 <br/>
 <br/>
-<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">About Me
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
+<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">About Me 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30">
-</picture></h3>
+</h3>
 <br/>
 <ul style="list-style-type: none; padding: 0;">
   <li>🙋🏻‍♂️ I'm a Software Engineer with a passion for coding and problem-solving.</li>
@@ -32,10 +30,7 @@
 </div>
 <br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Languages and Tools
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket emoji" width="30">
-  </picture>
 </h3>
 <br/>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
@@ -62,10 +57,7 @@
 <br/>
 <br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">My Coding Journey 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="30">
-</picture>
 </h3>
 <br/>
 
@@ -98,11 +90,8 @@
 </div> -->
 
 <br/>
-<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp">
+<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me    
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="Grinning face emoji" width="24">
-  </picture>
 </h3>
 <br/>
 <p align="center">
@@ -132,27 +121,10 @@
 
 <div style="text-align: center; font-size: 24px; font-family: 'General Sans', sans-serif;">
   <h3>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="Flexed biceps emoji" width="32" height="32">
-    </picture>
     Checkout my rookie code 👇🏻
   </h3>
 </div>
-
 <br/>
 <br/>
-<!--
-**Mathews-Gigi/Mathews-Gigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
