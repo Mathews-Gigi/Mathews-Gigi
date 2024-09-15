@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center; font-family: 'General Sans', sans-serif;">
-  I'm a Student, Software Engineer | Web Developer | Artist | Single
+  I'm a Student | Software Engineer | Web Developer | Artist | Single
 </div>
 <br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">About Me 
