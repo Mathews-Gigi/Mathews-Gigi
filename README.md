@@ -79,8 +79,7 @@
 <br/>
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show_icons=true&card_width=500&line_height=28)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&nbsp;&nbsp;&nbsp;
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark&ext=heatmap)
 
 </div>
@@ -90,9 +89,25 @@
 </div> -->
 
 <br/>
-<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me    
+<!--  <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me    
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="Grinning face emoji" width="24">
-</h3>
+</h3>  -->
+
+<br/>
+
+<div style="text-align: center; font-size: 24px; font-family: 'General Sans', sans-serif;">
+  <h3>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="Flexed biceps emoji" width="32" height="32">
+    Checkout my rookie code 👇🏻
+  </h3>
+</div>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/mathewsgigi/" target="_blank" rel="noopener noreferrer">
@@ -118,14 +133,3 @@ Website
 </p>
 
 <br/>
-<br/>
-
-<div style="text-align: center; font-size: 24px; font-family: 'General Sans', sans-serif;">
-  <h3>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="Flexed biceps emoji" width="32" height="32">
-    Checkout my rookie code 👇🏻
-  </h3>
-</div>
-<br/>
-<br/>
-
