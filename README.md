@@ -61,6 +61,8 @@
 
 <details>
   <summary>Click to expand</summary>
+  <br/>
+  <br/>
   <p>
     As a B.Tech graduate from the 2019-2023 batch, my path into coding took a somewhat unconventional route. While programming was a part of my early engineering studies, it wasn't until my fourth year that I truly began to dive into it.
     Initially, my academic focus was spread thin over various subjects, with coding merely an undercurrent in my educational stream. However, as I approached my final year, the pressure of securing a job and shaping a career led me to the path of programming.
@@ -85,10 +87,10 @@
 
 <details>
  <summary>Click to view leetcode <picture>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="20">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="16">
 </picture></summary>
 <div>
-
+  <br/>
   <br/>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark)
@@ -111,7 +113,6 @@
 <!--     <img src="./img/LinkedIn.svg" alt="LinkedIn logo" width="40"> -->
 Linked In
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MathewsGig25" target="_blank" rel="noopener noreferrer">
 <!--     <img src="./img/Twitter.svg" alt="Twitter logo" width="40"> -->
