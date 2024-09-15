@@ -23,13 +23,13 @@
   <li>⚡ Fun fact: I thrive on coding challenges and am always eager to learn about new technologies!</li>
 </ul>
 <br/>
-<div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Gigi&layout=donut-vertical&card_width=800&theme=highcontrast)](https://github.com/Mathews-Gigi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Gigi&layout=pie&card_width=850&theme=highcontrast)](https://github.com/Mathews-Gigi/github-readme-stats)
 
 </div>
 <br/>
-<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Languages and Tools
+<h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;" >Languages and Tools
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket emoji" width="30">
 </h3>
 <br/>
@@ -77,16 +77,27 @@
 
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&card_width=800)&nbsp;
+![Mathews-Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&card_width=800)&nbsp;
 
 
 </div>
 
 </details>
-<br/>
-<br/>
+
+
+<details>
+ <summary>Click to view leetcode <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="20">
+</picture></summary>
+<div>
+
+  <br/>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark)
+
+</div>
+</details>
+
 <!-- <div style="display:flex;justify-content:center;align-items:center;flex-grow:1;">
 
 </div> -->
@@ -95,16 +106,6 @@
 <!--  <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me    
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="Grinning face emoji" width="24">
 </h3>  -->
-
-<br/>
-
-<div style="text-align: center; font-size: 24px; font-family: 'General Sans', sans-serif;">
-  <h3>
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="Flexed biceps emoji" width="32" height="32">
-    Checkout my rookie code 👇🏻
-  </h3>
-</div>
-<br/>
 
 <br/>
 <br/>
@@ -136,3 +137,10 @@ Website
 </p>
 
 <br/>
+
+<div align="center" >
+  <h3>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" alt="Flexed biceps emoji" width="32" height="32">
+    Checkout my rookie code 👇🏻
+  </h3>
+</div>
