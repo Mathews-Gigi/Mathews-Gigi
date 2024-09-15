@@ -79,7 +79,7 @@
 <br/>
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&nbsp;
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark&ext=heatmap)
 
 </div>
