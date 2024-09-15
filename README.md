@@ -60,7 +60,7 @@
 <br/>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" ></summary>
   <br/>
   <br/>
   <p>
@@ -87,7 +87,7 @@
 
 <details>
  <summary>Click to view leetcode <picture>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="16">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20">
 </picture></summary>
 <div>
   <br/>
