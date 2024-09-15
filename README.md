@@ -6,8 +6,6 @@
   I'm a Student, Software Engineer | Web Developer | Artist | Single
 </div>
 <br/>
-<br/>
-<br/>
 <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">About Me 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30">
 </h3>
@@ -102,14 +100,9 @@
 
 </div> -->
 
-<br/>
 <!--  <h3 style="font-family: 'General Sans', sans-serif;font-size: 20px;">Connect with Me    
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="Grinning face emoji" width="24">
 </h3>  -->
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
