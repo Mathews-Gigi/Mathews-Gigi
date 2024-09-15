@@ -74,16 +74,19 @@
    Despite the obstacles, this journey has been transformative. The hurdles faced along the way have shaped my approach to problem-solving and continuous learning in the ever-evolving tech landscape. For me, coding is more than just a profession—it's an escape from reality and a way to turn the wheels of time. Though coding can sometimes seem monotonous, the challenges and satisfaction of reaching a solution are incomparable. Each piece of work is a craft, a creation from nothing, and this is where I find my pursuit of happiness.
 
   </p>
-</details>
-<br/>
-<br/>
+
 <div style="display:flex;justify-content:space-evenly;align-items:center;gap:20px;flex-grow:1;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark&ext=heatmap)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Gigi&theme=highcontrast&card_width=800)&nbsp;
+
 
 </div>
 
+</details>
+<br/>
+<br/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mathewsgigi?theme=dark)
 <!-- <div style="display:flex;justify-content:center;align-items:center;flex-grow:1;">
 
 </div> -->
