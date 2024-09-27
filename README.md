@@ -14,7 +14,7 @@
   <li>🙋🏻‍♂️ I'm a Software Engineer with a passion for coding and problem-solving.</li>
   <li>🌱 Currently working as a Front-end Developer specializing in the MERN stack.</li>
   <li>🎓 B.Tech in Engineering.</li>
-  <li>💼 Focused on building innovative web solutions that drive business success.</li>
+  <li>💼 Focused on building innovative web solutions that drive you to success.</li>
   <li>🌐 Continuously exploring the latest in front-end frameworks and web technologies.</li>
   <li>🧪 Experimenting with backend development and other tech stacks to expand my skill set.</li>
   <li>🏓 A big fan of anime and always up for a good series recommendation!</li>
